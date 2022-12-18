@@ -1,0 +1,2 @@
+firstName,lastName,gender,age,mobileNumber,address,height,weight,wasHospitalized?,stillAlive(ifHospitalized)?,discharged(ifHospitalized)?
+saad,farrukh,M,15,+923365128151,a``r`r`76`p,123,12,N,Y,N
