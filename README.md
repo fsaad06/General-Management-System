@@ -1,5 +1,5 @@
 # General-Management-System
-Open Sourced Management System involving Oriented Oriented Programming, Exception Handling, STL and much more
+Open Sourced Management System involving Oriented Oriented Programming, Exception Handling, STL and much more.
 
 
 A management system is a set of policies, processes and procedures used by an organization to 
